@@ -12,7 +12,11 @@
  "keywords": [
  "censor",
 "words"
- ] 
+ ],
+ "dependencies": {},
+ "engines": {
+ "node": "*"
+ }
 }
  
   
