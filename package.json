@@ -7,6 +7,12 @@
     "repository": {
  "type": "git",
  "url": "https://github.com/Venkateshwarip/node_js_module/edit/main/package.json"
- }}
+ 
+},
+ "keywords": [
+ "censor",
+"words"
+ ] 
+}
  
   
